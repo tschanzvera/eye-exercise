@@ -7,7 +7,7 @@ Link for the demo: https://tschanzvera.github.io/eye-exercise/eyes.html
 
 ## How to run
 
-Load the url in your browser
+Load the url in your browser and use the mouse to move the eyes.
 
 ## support
 
