@@ -9,6 +9,11 @@ Link for the demo: https://tschanzvera.github.io/eye-exercise/eyes.html
 
 Load the url in your browser and use the mouse to move the eyes.
 
+
+## Roadmap of future improvements 
+
+I would like to make the eye blink when I click on the eyeball
+
 ## support
 
 If you have any questions please contact www.linkedin.com/in/vera-tschanz-500258a2
